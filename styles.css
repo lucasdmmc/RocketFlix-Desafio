@@ -49,6 +49,8 @@ body {
 
 #container .aboutMovie img {
   margin-bottom: 2rem;
+  width: 171px;
+  height: 243.77px;
 }
 
 #container .aboutMovie h2 {
@@ -126,7 +128,6 @@ body {
     gap: 3.4rem;
     margin: 0 auto;
     width: 62.8rem;
-    height: 31.9rem;
     text-align: start;
   }
 
